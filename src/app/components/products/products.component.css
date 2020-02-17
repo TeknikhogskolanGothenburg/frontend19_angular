@@ -1,0 +1,9 @@
+.shop-items {
+  display: flex;
+  justify-content: center;
+}
+
+app-product {
+  display: flex;
+  justify-content: center;
+}

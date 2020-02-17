@@ -1,0 +1,12 @@
+.heading {
+  height: 100px;
+  background-color: black;
+  color: azure;
+}
+
+.cart {
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-top: 20px;
+}

@@ -1,0 +1,14 @@
+.item-card {
+  border: solid 1px black;
+  box-shadow: 2px 2px 4px black;
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  color: azure;
+  width: 50%;
+  text-align: center;
+}
+
+.item-card img {
+  width: 80%;
+}
